@@ -2,10 +2,7 @@
 
 🎯 **Focusing** on building innovative tools and applications
 
-## About Me
-- 🌍 Based in China
-- 🔗 Blog: [csl.cool](http://csl.cool)
-- 🏆 GitHub Achievements: Arctic Code Vault Contributor, Starstruck, Pull Shark
+🔗 Blog: [csl.cool](http://csl.cool)
 
 ## 🚀 Projects
 
