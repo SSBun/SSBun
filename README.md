@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm SSBun! 👋
 
-<!--
-**SSBun/SSBun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Focusing** on building innovative tools and applications
 
-Here are some ideas to get you started:
+## About Me
+- 🌍 Based in China
+- 🔗 Blog: [csl.cool](http://csl.cool)
+- 🏆 GitHub Achievements: Arctic Code Vault Contributor, Starstruck, Pull Shark
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- **[AiCash](https://github.com/SSBun/AiCash)** - AI-powered financial management tool
+- **[Shark](https://github.com/SSBun/Shark)** - Latest Swift project
+- **[Seahorse](https://github.com/SSBun/Seahorse)** - Swift development utility
+- **[deploy-custom-claude-code](https://github.com/SSBun/deploy-custom-claude-code)** - Custom Claude deployment scripts
+- **[SeaCrab](https://github.com/SSBun/SeaCrab)** - Swift development tool
+- **[OctopusTool](https://github.com/SSBun/OctopusTool)** - TypeScript utility
+- **[VocabularyChecker](https://github.com/SSBun/VocabularyChecker)** - Language learning vocabulary tool
+- **[DynamicListKit](https://github.com/SSBun/DynamicListKit)** - Dynamic list management for Swift
+- **[Rewrite](https://github.com/SSBun/Rewrite)** - Menu bar Mac app for quick grammar fixes
+- **[FlyCoding](https://github.com/SSBun/FlyCoding)** - Xcode extension like Emmet for faster coding
+- **[SnapTimer](https://github.com/SSBun/SnapTimer)** - Picture-in-Picture timer for iOS
+- **[PatternCollection](https://github.com/SSBun/PatternCollection)** - Clothing pattern resource manager
+- **[localdic](https://github.com/SSBun/localdic)** - CLI tool for managing Mac local dictionary
+
+## 🛠️ Tech Stack
+- **Languages**: Swift, TypeScript, JavaScript, Python, Ruby, C/C++
+- **Platforms**: iOS, macOS, Web
+- **Tools**: Xcode, Homebrew, CLI development
+- **Specialties**: Developer productivity tools, iOS apps, Swift macros
+
+---
+*Building tools and apps that make development and daily life better* ✨
