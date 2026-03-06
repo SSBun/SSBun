@@ -18,6 +18,7 @@
 - **[SnapTimer](https://github.com/SSBun/SnapTimer)** - iOS application providing Picture-in-Picture timer for snapping up
 - **[PatternCollection](https://github.com/SSBun/PatternCollection)** - iOS application to manage resources of clothing patterns
 - **[localdic](https://github.com/SSBun/localdic)** - CLI tool for managing the Mac local dictionary written with Swift
+- **[AppExample](https://github.com/SSBun/AppExample)** - SwiftUI patterns for macOS apps with NavigationSplitView, grids, and lists
 
 ## 🛠️ Tech Stack
 - **Languages**: Swift, TypeScript, JavaScript, Python, Ruby, C/C++
