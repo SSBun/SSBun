@@ -5,6 +5,7 @@
 
 ## 🚀 Projects
 
+- **[GitHub Hacker](https://github.com/SSBun/GithubHacker)** - CLI tool to manage multiple GitHub accounts for batch operations like starring, watching, and forking repositories
 - **[AiCash](https://github.com/SSBun/AiCash)** - Beautiful macOS menu bar app to track AI service costs and usage across multiple providers
 - **[Shark](https://github.com/SSBun/Shark)** - macOS application for managing Cursor IDE workspace files with drag-and-drop simplicity
 - **[Seahorse](https://github.com/SSBun/Seahorse)** - Swift development utility
@@ -18,7 +19,10 @@
 - **[SnapTimer](https://github.com/SSBun/SnapTimer)** - iOS application providing Picture-in-Picture timer for snapping up
 - **[PatternCollection](https://github.com/SSBun/PatternCollection)** - iOS application to manage resources of clothing patterns
 - **[localdic](https://github.com/SSBun/localdic)** - CLI tool for managing the Mac local dictionary written with Swift
+- **[AppleSpell](https://github.com/SSBun/localdic)** - Beautiful macOS app for managing the Mac local dictionary with modern SwiftUI interface
 - **[AppExample](https://github.com/SSBun/AppExample)** - SwiftUI patterns for macOS apps with NavigationSplitView, grids, and lists
+- **[AppleIconExporter](https://github.com/SSBun/Scripts)** - AppleScript tool to generate iOS and macOS app icon assets from a single source image
+- **[skills](https://github.com/SSBun/skills)** - Personal Claude Code skills collection for enhancing development workflow
 
 ## 🛠️ Tech Stack
 - **Languages**: Swift, TypeScript, JavaScript, Python, Ruby, C/C++
