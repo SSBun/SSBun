@@ -5,6 +5,8 @@
 
 ## 🚀 Projects
 
+- **[CC-Router](https://github.com/SSBun/CC-Router)** - Multi-provider model router for Claude Code — route different models to different LLM providers
+- **[CCPM](https://github.com/SSBun/CCPM)** - macOS native app for managing Claude Code plugins, MCP servers, agents, and skills
 - **[GitHub Hacker](https://github.com/SSBun/GithubHacker)** - CLI tool to manage multiple GitHub accounts for batch operations like starring, watching, and forking repositories
 - **[AiCash](https://github.com/SSBun/AiCash)** - Beautiful macOS menu bar app to track AI service costs and usage across multiple providers
 - **[Shark](https://github.com/SSBun/Shark)** - macOS application for managing Cursor IDE workspace files with drag-and-drop simplicity
